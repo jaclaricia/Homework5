@@ -48,7 +48,6 @@ public class LoginSystem {
 	 * Initialize the contents of the frame.
 	 */
 	
-	
 	public void initialize() {
 		
 		//Frame Compositions (Label, Button, Text Fields, etc.)
